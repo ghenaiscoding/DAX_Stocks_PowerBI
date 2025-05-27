@@ -1,2 +1,3 @@
-# DAX_Stocks_PowerBI
-DAX Stocks Analysis
+# Power BI Project
+# This Repository contains some of personal Power BI Projects
+# Thank you all for viewing them!
